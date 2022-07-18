@@ -10,6 +10,7 @@ import Target from '../partials/Target';
 import News from '../partials/News';
 import Newsletter from '../partials/Newsletter';
 import Footer from '../partials/Footer';
+import Clients from '../partials/Clients';
 
 function Home() {
   return (
@@ -28,6 +29,8 @@ function Home() {
 
         {/*  Page sections */}
         <HeroHome />
+        <Clients />
+
         <Process />
         <FeaturesHome />
         <Tabs />

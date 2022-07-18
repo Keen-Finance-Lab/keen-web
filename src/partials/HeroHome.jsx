@@ -41,6 +41,7 @@ function HeroHome() {
             </div>
           </div>
 
+
           {/* Hero image */}
           <div>
             <div className="relative flex justify-center items-center" data-aos="fade-up" data-aos-delay="200">
